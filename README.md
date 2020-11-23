@@ -1,3 +1,5 @@
+#Layla Santana Mota
+
 # Model View Controller - Design Pattern para PHP
 
 ## Modelos
@@ -15,4 +17,3 @@ Todos os dados são passados para a visualização por meio da variável $ data.
 
 Todas as funcionalidades são armazenadas aqui.
 Todos os modelos são chamados dentro dos controladores e podem ser modificados e depois passados para a visualização.
-# atividade-de-conclusao
