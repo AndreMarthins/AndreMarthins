@@ -25,5 +25,3 @@ class Alunos {
         return Database::add ($sql,$valores);
     }
 }
-
-?>
