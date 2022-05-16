@@ -1,6 +1,6 @@
 ### Sejam bem vindos ao meu GitHub 
 
-Meu nome é André Martins, e sou aluno do curso Programador WEB do Programa Novos Caminhos do Governo Federal no Instituto Federal do Tocantins - IFTO. 
+Meu nome é André sou aluno do curso Programador WEB do Programa Novos Caminhos do Governo Federal no Instituto Federal do Tocantins - IFTO. 
 <!--
 Minhas redes:
 <ul>
